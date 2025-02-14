@@ -1,1 +1,1 @@
-alert("Hello Program");
+console.log("Hello Program");
